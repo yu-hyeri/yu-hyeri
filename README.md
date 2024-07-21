@@ -1,4 +1,4 @@
-## Hi there 👋
+## Yu_hyeri👐🏻 and my pet🐶
 
 
 <a href="https://github.com/devxb/gitanimals">
