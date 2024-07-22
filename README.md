@@ -1,4 +1,4 @@
-## Yu_hyeri and my pet🐶
+## hyeri farm and my pet✨
 
 
 <a href="https://github.com/devxb/gitanimals">
