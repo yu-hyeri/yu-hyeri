@@ -4,8 +4,8 @@
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/yu-hyeri"
-  width="800"
-  height="200"
+  width="500"
+  height="300"
 />
 </a>
   
