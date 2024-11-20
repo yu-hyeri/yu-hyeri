@@ -1,8 +1,7 @@
-## hyeri farm and my pet✨
 
 <a href="https://github.com/devxb/gitanimals">
 <img
-  src="https://render.gitanimals.org/farms/hyeri_farm"
+  src="https://render.gitanimals.org/farms/yu-hyeri"
   width="600"
   height="300"
 />
