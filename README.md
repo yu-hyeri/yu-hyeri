@@ -1,4 +1,3 @@
-
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/yu-hyeri"
@@ -6,7 +5,6 @@
   height="300"
 />
 </a>
-  
 
 <!--
  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
