@@ -1,5 +1,5 @@
-<h3> My farm ✨ </h3>
-<hr>
+<h2> My farm ✨ </h2>
+<br>
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/yu-hyeri"
