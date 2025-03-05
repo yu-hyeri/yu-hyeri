@@ -1,4 +1,3 @@
-<h1> My farm ✨ </h1>
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/yu-hyeri"
