@@ -26,7 +26,7 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
     <div style="text-align: left;"> <a href=https://velog.io/@hel_ee/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@hel_ee/posts">
-        <img src="https://img.shields.io/badge/behance-1769FF?style=for-the-badge&logo=behance&logoColor=white&link=https://behance.net/hyeriyu">
+      <a href=https://www.behance.net/hyeriyu> <img src="https://img.shields.io/badge/behance-1769FF?style=for-the-badge&logo=behance&logoColor=white&link=https://behance.net/hyeriyu">
           </div>
     <div style="text-align: left;">  </div> 
     </div>
