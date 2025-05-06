@@ -1,3 +1,41 @@
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:94a6ff,100:fffafa&height=180&text=👋🏻%20Hello,%20I'm%20Hyeri!&animation=fadeIn&fontColor=000000&fontSize=50" />
+    </div><br><br>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
+    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
+          <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white">
+          <br/></div> <br> <br>
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
+    <div style="text-align: left;"> <a href=https://velog.io/@hel_ee/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@hel_ee/posts"> </a>
+         <a href=mailto:youhr02@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:youhr02@gmail.com"> </a>
+          </div>  <br> <br>
+    <div style="text-align: left;">  </div> 
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=yu-hyeri&bg_color=180,00000000,ffffff&title_color=4785ff&text_color=4785ff"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yu-hyeri&layout=compact&bg_color=180,00000000,ffffff&title_color=4785ff&text_color=4785ff"
+           /> </div> 
+    </div>
+    <br>
+    <br>
+
+   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> My farm🍀 </h2>
+    
+
+
+
+
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/yu-hyeri"
