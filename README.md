@@ -31,25 +31,47 @@
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=yu-hyeri&bg_color=180,00000000,ffffff&title_color=4785ff&text_color=4785ff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yu-hyeri&layout=compact&bg_color=180,00000000,ffffff&title_color=4785ff&text_color=4785ff"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> 
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yu-hyeri&layout=compact&bg_color=180,00000000,ffffff&title_color=4785ff&text_color=4785ff"
            /> </div> 
     </div>
     
 
-   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🍀 My farm </h2>
-    
-
-
-
-
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/yu-hyeri"
-  width="600"
-  height="300"
-/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yu-hyeri&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/yu-hyeri?pet-id=602747403179089754"
+    width="200"
+    height="200"
+  />
 </a>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yu-hyeri&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/yu-hyeri?pet-id=587181348183179483"
+    width="200"
+    height="200"
+  />
+</a>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yu-hyeri&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/yu-hyeri?pet-id=655396305960038490"
+    width="200"
+    height="200"
+  />
+</a>
+  
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yu-hyeri&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/yu-hyeri?pet-id=603128738217415935"
+    width="200"
+    height="200"
+  />
+</a>
+  
+
+  
+  
 
 <!--
  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
