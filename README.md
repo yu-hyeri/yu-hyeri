@@ -1,5 +1,4 @@
-<br>
-<br>
+
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:94a6ff,100:fffafa&height=180&text=👋🏻%20Hello,%20I'm%20Hyeri!&animation=fadeIn&fontColor=000000&fontSize=50" />
     </div><br><br><br>
@@ -23,13 +22,15 @@
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           </div>
     </div>
+    <br>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
     <div style="text-align: left;"> <a href=https://velog.io/@hel_ee/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@hel_ee/posts"> </a>
          <a href=mailto:youhr02@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:youhr02@gmail.com"> </a>
-          </div>  <br> 
+          </div>
     <div style="text-align: left;">  </div> 
     </div>
+    <br>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> 
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yu-hyeri&layout=compact&bg_color=180,00000000,ffffff&title_color=4785ff&text_color=4785ff"
